@@ -1,37 +1,21 @@
-## OpenC2SIM Project Home
+## Welcome to the C2SIM Project Home
 
-You can use the [editor on GitHub](https://github.com/OpenC2SIM/OpenC2SIM.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_This page is still under development_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Command and Control – Simulation Interoperation (C2SIM)
 
-### Markdown
+### C2SIM Downloads
+- C2SIM Client Libraries [link](https://github.com/gmuc4i/c2sim/example)
+- C2SIMClientLib
+- C2SIMGUI Editor [link](https://github.com/gmuc4i/c2sim/raw/master/C2SIMGUIv2.8.8.zip)
+- C2SIM MSG-145 MiniEx
+- C2SIM Reference Implementation Server
+- C2SIM Sandbox
+- C2SIM-VRForces Interface
+- C2SIM-VBS3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OpenC2SIM/OpenC2SIM.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### C2SIM Versioned Development
+- C2SIMClientLib
+- C2SIMGUI Editor
+- C2SIM Reference Implementation Server
+- C2SIM-VRForces Interface
