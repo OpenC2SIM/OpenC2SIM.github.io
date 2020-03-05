@@ -13,6 +13,17 @@ _This page is still under development_
 - C2SIM Sandbox
 - C2SIM-VRForces Interface
 - C2SIM-VBS3
+-- VBS3 C2SIM interface provied by Iain Gillies:
+   https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/downloads/VBS3_C2Sim.zip
+-- Instructions provided by Iain Gillies for VBS3 C2SIM test
+   https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/downloads/c2sim-test.Intro.zip
+- Files from MSG-145 validation of C2SIM
+-- C2SIM server logs from MSG-145 CWIX testing 20 June 2019:
+   https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/downloads/MSG-145_CWIX2019_serverlogs.zip
+-- C2SIM Orders from CWIX 2019:
+   https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/downloads/OrdersCWIX2019-rev1.zip
+-- C2SIM Orders from MSG-145 MiniEx:
+   https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/downloads/OrdersMiniEx.zip
 
 ### C2SIM Versioned Development
 - C2SIMClientLib
