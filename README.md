@@ -5,7 +5,7 @@ _This page is still under development_
 ### Command and Control – Simulation Interoperation (C2SIM)
 
 ### C2SIM Downloads
-- C2SIM Client Libraries [link](https://github.com/OpenC2SIM/c2sim/example)
+- C2SIMClientLib Java C2SIMClientLib2-4.7.0.0.jar [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib2-4.7.0.0.jar)
 - C2SIMClientLib
 - C2SIMGUI Editor [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/downloads/C2SIMGUIv2.8.8.zip)
 - C2SIM MSG-145 MiniEx
