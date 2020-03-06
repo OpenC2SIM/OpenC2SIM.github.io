@@ -19,7 +19,7 @@ _This page is still under development_
     https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/raw/downloads/c2sim-test.Intro.zip
 #### Files from MSG-145 validation of C2SIM
 - C2SIM server logs from MSG-145 CWIX testing 20 June 2019:
-    https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/raw/downloads/MSG-145_CWIX2019_serverlogs.zip
+    https://github.com/OpenC2SIM/OpenC2SIM.github.io/MSG-145_CWIX2019_serverlogs.zip
 - C2SIM Orders from CWIX 2019:
     https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/raw/downloads/OrdersCWIX2019-rev1.zip
 - C2SIM Orders from MSG-145 MiniEx:
