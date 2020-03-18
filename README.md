@@ -6,11 +6,13 @@ _This page is still under development_
 
 ### C2SIM Downloads
 - C2SIMClientLib Java C2SIMClientLib2-4.7.0.0.jar [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib2-4.7.0.0.jar)
-- C2SIMClientLib
-- C2SIMGUI Editor [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/downloads/C2SIMGUIv2.8.8.zip)
-- C2SIM MSG-145 MiniEx
+- C2SIMClientLib C++ compiled binary library
+- C2SIMClientLib C++ source code
+- C2SIMGUI Editor v2.8.8 works with ontology v9 and server up to v4.6.3.6 (2019) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/downloads/C2SIMGUIv2.8.8.zip)
+- C2SIMGUI Editor v2.9.1 work with ontology v11 and server from v4.7.7.x (2020)
+- C2SIM MSG-145 MiniEx documents
 - C2SIM Reference Implementation Server
-- C2SIM Sandbox
+- C2SIM Sandbox documents
 - C2SIM-VRForces Interface
 #### C2SIM-VBS3
 - VBS3 C2SIM interface provied by Iain Gillies:
