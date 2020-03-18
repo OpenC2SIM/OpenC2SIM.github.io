@@ -13,7 +13,7 @@ _This page is still under development_
 - C2SIMGUI Editor v2.9.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.9.1.pdf)
 - C2SIM Reference Implementation Server user documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.7.0.0.zip)
 - C2SIM Reference Implementation Server runnable warfile (includes source code)
-- C2SIM Sandbox User Guide
+- C2SIM Sandbox User Guide v2.1.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20SandBox%20User%20Guide%20v2.1.1.pdf)
 - C2SIM-VRForces Interface source code package
 - C2SIM-VRForces Interface install package
 #### C2SIM-VBS3
