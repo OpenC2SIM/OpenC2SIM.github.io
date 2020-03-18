@@ -22,7 +22,7 @@ _This page is still under development_
 - Instructions provided by Iain Gillies for VBS3 C2SIM test
     [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2sim-test.Intro.zip)
 #### Files from MSG-145 validation of C2SIM
-- C2SIM MSG-145 MiniEx briefing and scenario
+- C2SIM MSG-145 MiniEx briefing and scenario [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_CAX_Forum_2019.pdf)
 - C2SIM server logs from MSG-145 CWIX testing 20 June 2019:
     [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/MSG-145_CWIX2019_serverlogs.zip)
 - C2SIM Orders from CWIX 2019:
