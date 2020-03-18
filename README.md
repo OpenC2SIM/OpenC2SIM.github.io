@@ -7,7 +7,7 @@ _This page is still under development_
 ### C2SIM Downloads
 - C2SIMClientLib Java C2SIMClientLib2-4.7.0.0.jar works with ontology v11 and server from 4.7.7.0 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib2-4.7.0.0.jar)
 - C2SIMClientLib Java C2SIMClientLib2-4.5.2.jar works with ontology v9 and server up to 4.6.3.11 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib2-4.5.2.jar)
-- C2SIMCLient JavaDoc
+- C2SIMClientLib v4.5.2 JavaDoc [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/BMLClientLib_JavaDoc.zip)
 - C2SIMClientLib C++ v4.7.0.0 compiled binary library [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.7.0.0.zip)
 - C2SIMClientLib C++ source package
 - C2SIMClientLib C++ v4.6.3.11 compiled binary library
