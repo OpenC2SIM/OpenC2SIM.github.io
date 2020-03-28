@@ -16,7 +16,7 @@
 - C2SIMGUI Editor v2.9.1 works with ontology v11 and server from v4.7.7.0 (2020) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.9.1.zip)
 - C2SIMGUI Editor v2.9.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.9.1.pdf)
 #### C2SIM Reference Implementation Server
-- C2SIM Reference Implementation Server user documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.7.0.0.zip)
+- C2SIM Reference Implementation Server user documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.7.7.3.pdf)
 - C2SIM Reference Implementation Server v4.6.3.11 for ontology v9 (2019) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/BMLServer4.6.3.11.war.zip)
 - C2SIM Reference Implementation Server v4.7.7.x for ontology v11 (2020) runnable warfile (includes source code) - we expect this to be available by 30 Mar 2020 - it is now in testing
 #### C2SIM Sandbox
