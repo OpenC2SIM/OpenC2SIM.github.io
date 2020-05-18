@@ -24,6 +24,7 @@
 
 #### C2SIM Sandbox
 - C2SIM Sandbox User Guide v2.1.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20SandBox%20User%20Guide%20v2.1.1.pdf)
+- System and security considerations for assembling a C2SIM Sandbox [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/AssemblingC2SIMSandbox.pdf)
 
 #### C2SIM Interface for VR-Forces 4.7
 - C2SIM-VRForces Interface v2.8 source code package works with server 4.7.0 and later and C2SIMv11 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.8.zip)
