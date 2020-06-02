@@ -13,6 +13,7 @@
 - C2SIMClientLib C++ v4.6.3.11 source package [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.6.3.11.zip)
 - C2SIMClientLib Java v4.8.0.0 source package works with server 4.8.0.0 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.0.0.zip)
 - C2SIMClientLib Java v4.8.0.0 jar file [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.0.0binary.zip)
+- C2SIMClientLib C++ v4.8.0.0 Windows project works with server 4.8.0.0 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.8.0.0.zip)
 - C2SIMClientLib C++ v4.8.0.0 Windows binary library and header files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.8.0.0.zip) 
 
 #### C2SIM GUI Editor
