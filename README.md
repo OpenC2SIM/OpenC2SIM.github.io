@@ -56,3 +56,7 @@
 - C2SIM alphabetizer to post-process schema from transformation process, for consistency: 
      [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMAlphabetize1.0.0beta.zip)
 
+#### Sandbox Reservation Web Application
+- Reservation Web Application Info: [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/raw/master/C2SIM%20Sandbox%20Reservation%20System%20Info.pdf)
+- User version: [reserve.tar.gz](https://github.com/OpenC2SIM/OpenC2SIM.github.io/raw/master/reserve.tar.gz)
+- Admin version: [reserve-admin.tar.gz](https://github.com/OpenC2SIM/OpenC2SIM.github.io/raw/master/reserve-admin.tar.gz)
