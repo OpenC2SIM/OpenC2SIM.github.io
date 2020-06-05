@@ -29,6 +29,7 @@
 - C2SIM Reference Implementation Server v4.6.3.11 for ontology v9 (2019) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/BMLServer4.6.3.11.war.zip)
 - C2SIM Reference Implementation Server v4.7.0.5 for ontology v11 (2020) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServer%23%234.7.0.5.war)
 - C2SIM Reference Implementation Server 4.8.0.8 user documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.7.7.3.pdf)
+- C2SIM Reference Implementation Server v4.8.0.8 for C2SIM Standard ontology & schema 1.0.0 (2020) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServer%23%234.8.0.8.war)
 
 #### C2SIM Sandbox
 - C2SIM Sandbox User Guide v2.1.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20SandBox%20User%20Guide%20v2.1.1.pdf)
