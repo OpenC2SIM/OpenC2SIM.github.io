@@ -56,6 +56,7 @@
 #### Miscellaneous C2SIM software
 - C2SIM alphabetizer to post-process schema from transformation process, for consistency: 
      [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMAlphabetize1.0.0beta.zip)
+- C2SIM ClientLibv4.8.0.x command-line web interface tools work with server 4.8.0.0 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib-command-line.zip)
 
 #### Sandbox Reservation Web Application
 - Reservation Web Application Info: [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/raw/master/C2SIM%20Sandbox%20Reservation%20System%20Info.pdf)
