@@ -22,7 +22,7 @@
 - C2SIMGUI Editor v2.9.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.9.1.pdf)
 - C2SIMGUI Editor v2.10.1 works with ontology v1.0.0 and server from 4.4.7.0 (2020) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.1.zip)
 - C2SIMGUI Editor v2.10.2 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.10.2.pdf)
-- C2SIMGUI Editor v2.10.1 works with ontology v1.0.0 and server from 4.8.0.0 (2020) [lin](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.2.zip)
+- C2SIMGUI Editor v2.10.3 works with ontology v1.0.0 and server from 4.8.0.10 (2020) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.3.zip)
 
 #### C2SIM Reference Implementation Server
 - C2SIM Reference Implementation Server user documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.7.7.3.pdf)
@@ -31,7 +31,7 @@
 - C2SIM Reference Implementation Server 4.8.0.8 user documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.7.7.3.pdf)
 - C2SIM Reference Implementation Server v4.8.0.10 for C2SIM Standard ontology & schema 1.0.0 (2020) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServer%23%234.8.0.10.war)
 - Server 4.8.0.10 message flow documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Message%20Flow_20200325.pdf)
-- Server 4.8.0.10 class diagra, documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_Server_UML.pdf)
+- Server 4.8.0.10 class diagram documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_Server_UML.pdf)
 
 #### C2SIM Sandbox
 - C2SIM Sandbox User Guide v2.1.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20SandBox%20User%20Guide%20v2.1.1.pdf)
