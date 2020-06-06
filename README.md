@@ -32,8 +32,7 @@
 - C2SIM Reference Implementation Server v4.8.0.10 for C2SIM Standard ontology & schema 1.0.0 (2020) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServer%23%234.8.0.10.war)
 - Server 4.8.0.x message flow documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Message%20Flow_20200325.pdf)
 - Server 4.8.0.x class diagram documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_Server_UML.pdf)
-- Server 4.8.0.x user guide documentation
-(https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.8.0.X%20.pdf)
+- Server 4.8.0.x user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.8.0.X%20.pdf)
 
 #### C2SIM Sandbox
 - C2SIM Sandbox User Guide v2.1.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20SandBox%20User%20Guide%20v2.1.1.pdf)
