@@ -22,11 +22,14 @@
 - C2SIMGUI Editor v2.9.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.9.1.pdf)
 - C2SIMGUI Editor v2.10.1 works with ontology v1.0.0 and server from 4.4.7.0 (2020) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.1.zip)
 - C2SIMGUI Editor v2.10.2 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.10.2.pdf)
+- C2SIMGUI Editor v2.10.1 works with ontology v1.0.0 and server from 4.8.0.0 (2020) [lin](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.2.zip)
 
 #### C2SIM Reference Implementation Server
 - C2SIM Reference Implementation Server user documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.7.7.3.pdf)
 - C2SIM Reference Implementation Server v4.6.3.11 for ontology v9 (2019) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/BMLServer4.6.3.11.war.zip)
 - C2SIM Reference Implementation Server v4.7.0.5 for ontology v11 (2020) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServer%23%234.7.0.5.war)
+- C2SIM Reference Implementation Server 4.8.0.8 user documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.7.7.3.pdf)
+- C2SIM Reference Implementation Server v4.8.0.8 for C2SIM Standard ontology & schema 1.0.0 (2020) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServer%23%234.8.0.8.war)
 
 #### C2SIM Sandbox
 - C2SIM Sandbox User Guide v2.1.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20SandBox%20User%20Guide%20v2.1.1.pdf)
@@ -55,6 +58,7 @@
 #### Miscellaneous C2SIM software
 - C2SIM alphabetizer to post-process schema from transformation process, for consistency: 
      [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMAlphabetize1.0.0beta.zip)
+- C2SIM ClientLibv4.8.0.x command-line web interface tools work with server 4.8.0.0 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib-command-line.zip)
 
 #### Sandbox Reservation Web Application
 - Reservation Web Application Info: [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/raw/master/C2SIM%20Sandbox%20Reservation%20System%20Info.pdf)
