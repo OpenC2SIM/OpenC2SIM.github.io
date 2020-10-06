@@ -2,6 +2,9 @@
 
 ### Command and Control – Simulation Interoperation (C2SIM)
 
+### SISO C2SIM Webpages
+[link](https://www.sisostds.org/DigitalLibrary.aspx?EntryId=51847)
+
 ### C2SIM Downloads
 #### C2SIM Client Library
 - C2SIMClientLib Java C2SIMClientLib2-4.7.0.0.jar works with ontology v11 and server from 4.7.7.0 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib2-4.7.0.0.jar)
