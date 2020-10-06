@@ -3,7 +3,7 @@
 ### Command and Control – Simulation Interoperation (C2SIM)
 
 ### SISO C2SIM Webpages
-[link](https://www.sisostds.org/DigitalLibrary.aspx?EntryId=51847)
+https://www.sisostds.org/DigitalLibrary.aspx?EntryId=51847 [link](https://www.sisostds.org/DigitalLibrary.aspx?EntryId=51847)
 
 ### C2SIM Downloads
 #### C2SIM Client Library
