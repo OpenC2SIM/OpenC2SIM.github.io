@@ -19,8 +19,8 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMClientLib C++ v4.6.3.11 Windows project source [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.6.3.11.zip)
 - C2SIMClientLib Java v4.8.0.2 Windows project source works with server 4.8.0.0 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.0.2.zip)
 - C2SIMClientLib Java v4.8.0.2 jar file [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.0.2binary.zip)
-- C2SIMClientLib C++ v4.8.0.2 Windows project source works with server 4.8.0.0 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.8.0.2.zip)
-- C2SIMClientLib C++ v4.8.0.2 Windows binary library and header files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.8.0.2.zip) 
+- C2SIMClientLib C++ v4.8.0.3 Windows project source works with server 4.8.0.0 and up - REST_Lib now thread-safe [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.8.0.3.zip)
+- C2SIMClientLib C++ v4.8.0.3 Windows binary library and header files - REST_Lib now thread-safe [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.8.0.3.zip) 
 
 #### C2SIM GUI Editor
 - C2SIMGUI Editor v2.8.8 works with ontology v9 and server up to v4.6.3.11 (2019) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/downloads/C2SIMGUIv2.8.8.zip)
@@ -48,11 +48,13 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIM Sandbox User Guide v2.1.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20SandBox%20User%20Guide%20v2.1.1.pdf)
 - System and security considerations for assembling a C2SIM Sandbox [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/AssemblingC2SIMSandbox.pdf)
 
-#### C2SIM Interface for VR-Forces 4.7
-- C2SIM-VRForces Interface v2.8 source code package works with server 4.7.0 and later and C2SIMv11 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.8.zip)
-- C2SIM-VRForces Interface v2.9 install package works with server 4.7.0 and later and C2SIMv11 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.9.zip)
-- C2SIM-VRForces Interface v2.13 install package works with VR-server 4.7.0 and later and C2SIMv1.0.0 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.13.zip)
-- C2SIM-VRForces Interface v2.13 source code Windows C++ project [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.13.zip)
+#### C2SIM Interface for VR-Forces
+- C2SIM-VRForces Interface v2.8 for VR-Forces 4.7 source code package works with server 4.7.0 and later and C2SIMv11 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.8.zip)
+- C2SIM-VRForces Interface v2.9 for VR-Forces 4.7 install package works with server 4.7.0 and later and C2SIMv11 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.9.zip)
+- C2SIM-VRForces Interface v2.13 for VR-Forces4.7 install package works with VR-server 4.7.0 and later and C2SIMv1.0.0 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.13.zip)
+- C2SIM-VRForces Interface v2.13 for VR-Forces4.7 source code Windows C++ project [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.13.zip)
+- C2SIM-VRForces Interface v2.14 for VR-Forces 4.9 install package works with VR-server 4.7.0 and later and C2SIMv1.0.0 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.14.zip)
+- C2SIM-VRForces Interface v2.14 for VR-Forces 4.9 source code Windows C++ project [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.14.zip)
 
 #### C2SIM Interface for VBS3
 - VBS3 C2SIM interface provied by Iain Gillies:
