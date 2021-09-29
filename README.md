@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.10.1 works with ontology v1.0.0 and server from 4.4.7.0 (2020) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.1.zip)
 - C2SIMGUI Editor v2.10.4 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.10.4.pdf)
 - C2SIMGUI Editor v2.10.5 works with ontology v1.0.0 and server 4.8.0.0 and up (2020) now works under latest Java and has corrected flat schemata [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.5.zip)
-- C2SIMGUI Editor v2.10.6 works with ontology v1.0.0 and server 4.8.0.0 and up (2020) observation reports of OPFOR work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.6.zip)
+- C2SIMGUI Editor v2.10.7 works with ontology v1.0.0 and server 4.8.0.0 and up (2020) observation reports of OPFOR work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.7.zip)
 
 #### C2SIM Reference Implementation Server
 - C2SIM Reference Implementation Server user documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.7.7.3.pdf)
@@ -55,8 +55,8 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIM-VRForces Interface v2.13 for VR-Forces4.7 install package works with VR-server 4.7.0 and later and C2SIMv1.0.0 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.13.zip)
 - C2SIM-VRForces Interface v2.13 for VR-Forces4.7 source code Windows C++ project [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.13.zip)
 - C2SIM-VRForces Interface v2.14 for VR-Forces 4.9 install package works with VR-server 4.7.0 and later and C2SIMv1.0.0 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.14.zip)
-- C2SIM-VRForces Interface v2.15 for VR-Forces 4.9 source code Windows C++ project [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.15.zip)
-- C2SIM-VRForces Interface v2.15 for VR-Forces 4.9 binary and suplemental files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.15.zip)
+- C2SIM-VRForces Interface v2.16 for VR-Forces 4.9 source code Windows C++ project [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.16.zip)
+- C2SIM-VRForces Interface v2.16 for VR-Forces 4.9 binary and suplemental files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.16.zip)
 
 #### C2SIM Interface for VBS3
 - VBS3 C2SIM interface provied by Iain Gillies:
