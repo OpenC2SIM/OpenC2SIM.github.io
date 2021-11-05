@@ -43,6 +43,10 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.0.x javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib_JavaDoc.zip)
 - Server 4.8.0.x user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.8.0.X%20.pdf)
 
+#### Latest C2SIM Ontologies and Schema
+- Latest composite schema (Core/SMX/LOX) v1.0.1 [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_V1.0.1.xsd)
+- Latest transformation Ontology to Schema XSLT [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMOntologyToC2SIMSchemaV1.0.1.xslt)
+
 #### C2SIM Sandbox
 - C2SIM Overvewi 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMoverview2%2Cpdf.pdf)
 - C2SIM Overview 2 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM-Overview1.pdf)
