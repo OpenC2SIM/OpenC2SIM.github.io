@@ -21,6 +21,10 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMClientLib Java v4.8.0.2 jar file [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.0.2binary.zip)
 - C2SIMClientLib C++ v4.8.0.3 Windows project source works with server 4.8.0.0 and up - REST_Lib now thread-safe [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.8.0.3.zip)
 - C2SIMClientLib C++ v4.8.0.3 Windows binary library and header files - REST_Lib now thread-safe [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.8.0.3.zip) 
+- C2SIMClientLib Java v4.8.0.4 Windows project source default ProtocolVersion 1.0.1 works with server 4.8.0.0 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.0.4.zip)
+- C2SIMClientLib Java v4.8.0.4 jar file default ProtocolVersion 1.0.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.0.4binary.zip)
+- C2SIMClientLib C++ v4.8.0.5 Windows project source default ProtocolVersion 1.0.1 works with server 4.8.0.0 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.8.0.5.zip)
+- C2SIMClientLib C++ v4.8.0.5 Windows binary library and header files default ProtocolVersion 1.0.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.8.0.5.zip) 
 
 #### C2SIM GUI Editor
 - C2SIMGUI Editor v2.8.8 works with ontology v9 and server up to v4.6.3.11 (2019) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/downloads/C2SIMGUIv2.8.8.zip)
