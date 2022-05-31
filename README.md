@@ -72,8 +72,8 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIM-VRForces Interface v2.16 for VR-Forces 4.9 binary and suplemental files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.16.zip)
 - C2SIM-VRForces Interface v2.17 for VR-Forces 4.9 source code Windows C++ project implements C2SIM schema 1.0.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.17.zip)
 - C2SIM-VRForces Interface v2.17 for VR-Forces 4.9 binary and suplemental files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.17.zip)
-- C2SIM-VRForces Interface v2.20 for VR-Forces 4.9 source code Windows C++ project implements C2SIM schema 1.0.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.20.zip)
-- C2SIM-VRForces Interface v2.20 for VR-Forces 4.9 binary and suplemental files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.20.zip)
+- C2SIM-VRForces Interface v2.21 for VR-Forces 4.9 source code Windows C++ project implements C2SIM schema 1.0.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.21.zip)
+- C2SIM-VRForces Interface v2.21 for VR-Forces 4.9 binary and suplemental files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.21.zip)
 
 #### C2SIM Interface for VBS3
 - VBS3 C2SIM interface provied by Iain Gillies:
@@ -94,6 +94,9 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIM alphabetizer to post-process schema from transformation process, for consistency: 
      [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMAlphabetize1.0.0beta.zip)
 - C2SIM ClientLibv4.8.0.x command-line web interface tools work with server 4.8.0.0 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib-command-line.zip)
+- C2SIM interface for SitaWare HQ NetBeans package [link](SWC2S.zip)
+- C2SIM interface for SitaWare HQ jarile [link]{SWC2S-1.0_ALL.jar)
+- C2SIM interface for SitaWare HQ required JSON file [link](SWsymbol.json)
 
 #### Sandbox Reservation Web Application
 - Reservation Web Application Info: [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/raw/master/C2SIM%20Sandbox%20Reservation%20System%20Info.pdf)
