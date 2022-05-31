@@ -1,0 +1,68 @@
+	{
+		"type": 9,
+		"id": "9:370c6365-94cd-48cc-932a-e245f3e769e3",
+		"layerId": "default:9c365ed7-f327-49ea-9a44-a94a00c6b013",
+		"properties":
+		{
+			"customAttributes": null,
+			"reportTime": 1538343682555,
+			"lastHeartbeat": null,
+			"correlationExpression": null,
+			"tags": [],
+			"symbolCode": "SFGPUCI----E***",
+			"style": null,
+			"c2Attributes":
+			{
+				"type": 3,
+				"name": "CO-F",
+				"reportingOrganisationName": "GMUOrg",
+				"classification": null,
+				"effectiveFrom": null,
+				"effectiveTo": null,
+				"comment": "",
+				"staffComment": null,
+				"alternateName": null,
+				"operationalStatus": 1,
+				"operationalStatusQualifier": 0,
+				"accuracy": 0,
+				"reliability": 0,
+				"affiliation": 0,
+				"speed": null,
+				"direction": null,
+				"leftOrganisationName": null,
+				"rightOrganisationName": null,
+				"maxAltitude": null,
+				"minAltitude": null,
+				"priority": 1,
+				"altitudeType": null,
+				"aliases": null,
+				"addresses": null,
+				"subTypeCode": "",
+				"reinforcement": null,
+				"serviceCode": null,
+				"hullNumber": null,
+				"fillPattern": null	
+			},
+			"c2AttributesExt": null,
+			"c2AttributesIed": null,
+			"c2AttributesGuardZone": null,
+			"c2AttributesRangeFanExt": null,
+			"installationAttributes": null,
+			"geometry":
+			{
+				"type": "point",
+				"coordinates": 
+				[
+					-76.37590789794922,
+					37.667724609375	
+				]	
+			},
+			"dafssAttributes": null,
+			"issuingAuthority": null,
+			"additionalInformation": null,
+			"weaponType": null,
+			"quantity": null,
+			"c2Guid": null,
+			"lastClientUpdateDiff": null	
+		}	
+	}
