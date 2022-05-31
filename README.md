@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.0.x class diagram documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_Server_UML.pdf)
 - Server 4.8.0.x javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib_JavaDoc.zip)
 - Server 4.8.0.x user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.8.0.X%20.pdf)
-- Server 4.8.1.x user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.8.1.X%20.pdf)
+- Server 4.8.2.3 user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
 
 #### Latest C2SIM Ontologies and Schema
 - Latest composite schema (Core/SMX/LOX) v1.0.1 [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_V1.0.1.xsd)
@@ -95,7 +95,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
      [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMAlphabetize1.0.0beta.zip)
 - C2SIM ClientLibv4.8.0.x command-line web interface tools work with server 4.8.0.0 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib-command-line.zip)
 - C2SIM interface for SitaWare HQ NetBeans package [link](SWC2S.zip)
-- C2SIM interface for SitaWare HQ jarile [link]{SWC2S-1.0_ALL.jar)
+- C2SIM interface for SitaWare HQ jarfile [link](SWC2S-1.0_ALL.jar)
 - C2SIM interface for SitaWare HQ required JSON file [link](SWsymbol.json)
 
 #### Sandbox Reservation Web Application
