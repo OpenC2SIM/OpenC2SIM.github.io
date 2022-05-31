@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 
 #### C2SIM Reference Implementation Server
 - C2SIM Reference Implementation Server 4.8.2.3 user documentation [link]
-(https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM Server Reference Implementation Documentation 4.8.2.3. pdf)
+(C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
 - C2SIM Reference Implementation Server v4.6.3.11 for ontology v9 (2019) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/BMLServer4.6.3.11.war.zip)
 - C2SIM Reference Implementation Server v4.7.0.5 for ontology v11 (2020) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServer%23%234.7.0.5.war)
 - C2SIM Reference Implementation Server 4.8.0.8 user documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.7.7.3.pdf)
