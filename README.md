@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 #### C2SIM GUI Editor
 - C2SIMGUI Editor v2.8.8 works with ontology v9 and server up to v4.6.3.11 (2019) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/downloads/C2SIMGUIv2.8.8.zip)
 - C2SIMGUI Editor v2.9.1 works with ontology v11 and server from v4.7.7.0 (2020) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.9.1.zip)
-- C2SIMGUI Editor v2.9.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.9.1.pdf)
+- C2SIMGUI Editor v2.9.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM Server Reference Implementation Documentation 4.8.2.3 .pdf)
 - C2SIMGUI Editor v2.10.1 works with ontology v1.0.0 and server from 4.4.7.0 (2020) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.1.zip)
 - C2SIMGUI Editor v2.10.4 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.10.4.pdf)
 - C2SIMGUI Editor v2.10.5 works with ontology v1.0.0 and server 4.8.0.0 and up (2020) now works under latest Java and has corrected flat schemata [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.5.zip)
@@ -38,7 +38,8 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.11.4 works with draft schemata v1.0.2 including new MapGraphic and with server 4.8.1.3 and later including SystemCommands and observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.11.4.zip)
 
 #### C2SIM Reference Implementation Server
-- C2SIM Reference Implementation Server user documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.7.7.3.pdf)
+- C2SIM Reference Implementation Server 4.8.2.3 user documentation [link]
+(https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM Server Reference Implementation Documentation 4.8.2.3. pdf)
 - C2SIM Reference Implementation Server v4.6.3.11 for ontology v9 (2019) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/BMLServer4.6.3.11.war.zip)
 - C2SIM Reference Implementation Server v4.7.0.5 for ontology v11 (2020) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServer%23%234.7.0.5.war)
 - C2SIM Reference Implementation Server 4.8.0.8 user documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.7.7.3.pdf)
