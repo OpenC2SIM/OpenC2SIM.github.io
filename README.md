@@ -25,6 +25,10 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMClientLib Java v4.8.0.4 jar file default ProtocolVersion 1.0.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.0.4binary.zip)
 - C2SIMClientLib C++ v4.8.0.5 Windows project source default ProtocolVersion 1.0.1 works with server 4.8.0.0 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.8.0.5.zip)
 - C2SIMClientLib C++ v4.8.0.5 Windows binary library and header files default ProtocolVersion 1.0.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.8.0.5.zip) 
+- C2SIMClientLib Java v4.8.3.1 JAR file revised to comply with sequence of elements in C2SIM header per SISO C2SIM standard [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLibv4.8.3.1.zip) 
+- C2SIMClientLib C++ v4.8.3.1 Windows binary library and header files revised to comply with sequence of elements in C2SIM header per SISO C2SIM standards [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibBinaryv4.8.3.1.zip) 
+- C2SIMClientLib Java v4.8.3.1 javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClient_Libv4.8.3.1-javadoc.zip)
+- C2SIMClientLib C++ v4.8.3.1 Windows project source default ProtocolVersion 1.0.1 works with server 4.8.3.1 and up [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C%2B%2BC2SIMClientLibv4.8.3.1.zip)
 
 #### C2SIM GUI Editor
 - C2SIMGUI Editor v2.8.8 works with ontology v9 and server up to v4.6.3.11 (2019) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/downloads/C2SIMGUIv2.8.8.zip)
@@ -36,6 +40,8 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.10.9 works with ontology v1.0.0 and server 4.8.0.0 and up (2020) observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.9.zip)
 - C2SIMGUI Editor v2.10.14 works with schemata v1.0.1 including new MapGraphic and with server 4.8.0.0 and up observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.14.zip)
 - C2SIMGUI Editor v2.11.5 works with draft schemata v1.0.2 including new MapGraphic and with server 4.8.1.3 and later including SystemCommands and observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.11.5.zip)
+- C2SIMGUI Editor v2.12.1 works with draft schemata v1.0.2 including bundled reports and with server 4.8.2.1 and later including SystemCommands for server recording and playback [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.12.1.zip)
+- C2SIMGUI Editor v2.12.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.12.1.pdf)
 
 #### C2SIM Reference Implementation Server
 - C2SIM Reference Implementation Server 4.8.2.3 user documentation [link](C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
@@ -51,6 +57,10 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.0.x javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib_JavaDoc.zip)
 - Server 4.8.0.x user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.8.0.X%20.pdf)
 - Server 4.8.2.3 user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
+- C2SIM Reference Implementation Server v4.8.3.1 for C2SIM Standard ontology & draft schema C2SIM_CWIX2022v1.2.xsd (2022) bugfixes and server record and playback runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServer%23%234.8.3.1.war)
+- Server 4.8.3.1 user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.3.1.pdf)
+- Server 4.8.3.1 javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerv4.8.3.1-apidocs.zip)
+- Server 4.8.3.1 performance issues [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM Server Performance CWIX22.pdf)
 
 #### Latest C2SIM Ontologies and Schema
 - Latest composite schema (Core/SMX/LOX) v1.0.1 [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_V1.0.1.xsd)
@@ -74,6 +84,8 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIM-VRForces Interface v2.17 for VR-Forces 4.9 binary and suplemental files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.17.zip)
 - C2SIM-VRForces Interface v2.21 for VR-Forces 4.9 source code Windows C++ project implements C2SIM schema 1.0.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.21.zip)
 - C2SIM-VRForces Interface v2.21 for VR-Forces 4.9 binary and suplemental files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.21.zip)
+- C2SIM-VRForces Interface v2.22 for VR-Forces 4.9 source code Windows C++ project implements C2SIM schema 1.0.1 including bundled reports [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.22.zip)
+- C2SIM-VRForces Interface v2.21 for VR-Forces 4.9 binary and suplemental files including bundled reports [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.22.zip)
 
 #### C2SIM Interface for VBS3
 - VBS3 C2SIM interface provied by Iain Gillies:
