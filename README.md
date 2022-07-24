@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.10.5 works with ontology v1.0.0 and server 4.8.0.0 and up (2020) now works under latest Java and has corrected flat schemata [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.5.zip)
 - C2SIMGUI Editor v2.10.9 works with ontology v1.0.0 and server 4.8.0.0 and up (2020) observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.9.zip)
 - C2SIMGUI Editor v2.10.14 works with schemata v1.0.1 including new MapGraphic and with server 4.8.0.0 and up observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.14.zip)
-- C2SIMGUI Editor v2.11.4 works with draft schemata v1.0.2 including new MapGraphic and with server 4.8.1.3 and later including SystemCommands and observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.11.4.zip)
+- C2SIMGUI Editor v2.11.5 works with draft schemata v1.0.2 including new MapGraphic and with server 4.8.1.3 and later including SystemCommands and observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.11.5.zip)
 
 #### C2SIM Reference Implementation Server
 - C2SIM Reference Implementation Server 4.8.2.3 user documentation [link](C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
