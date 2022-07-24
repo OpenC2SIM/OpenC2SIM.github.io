@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIM Reference Implementation Server v4.8.3.1 for C2SIM Standard ontology & draft schema C2SIM_CWIX2022v1.2.xsd (2022) bugfixes and server record and playback runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServer%23%234.8.3.1.war)
 - Server 4.8.3.1 user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.3.1.pdf)
 - Server 4.8.3.1 javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerv4.8.3.1-apidocs.zip)
-- Server 4.8.3.1 performance issues [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM Server Performance CWIX22.pdf)
+- Server 4.8.3.1 performance issues [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_Server_Performance_CWIX22.pdf)
 
 #### Latest C2SIM Ontologies and Schema
 - Latest composite schema (Core/SMX/LOX) v1.0.1 [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_V1.0.1.xsd)
