@@ -5,6 +5,9 @@
 ### SISO C2SIM Webpages
 https://www.sisostds.org/DigitalLibrary.aspx?EntryId=51847 
 
+### Github repository to manage SISO C2SIM Artifacts 
+https://github.com/OpenC2SIM/C2SIMArtifacts 
+
 ### NATO Modelling & SImulation Group C2SIM Video
 https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 
