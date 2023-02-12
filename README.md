@@ -8,7 +8,7 @@ https://www.sisostds.org/DigitalLibrary.aspx?EntryId=51847
 ### SISO C2SIM Artifacts @ Github
 [https://github.com/OpenC2SIM/C2SIMArtifacts](https://github.com/OpenC2SIM/C2SIMArtifacts)
 
-### NATO Modelling & SImulation Group C2SIM Video
+### NATO Modelling & Simulation Group C2SIM Video
 https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 
 ### C2SIM Downloads
@@ -70,7 +70,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Latest transformation Ontology to Schema XSLT [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMOntologyToC2SIMSchemaV1.0.1.xslt)
 
 #### C2SIM Sandbox
-- C2SIM Overvewi 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMoverview2%2Cpdf.pdf)
+- C2SIM Overview 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMoverview2%2Cpdf.pdf)
 - C2SIM Overview 2 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM-Overview1.pdf)
 - C2SIM Sandbox User Guide v2.1.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20SandBox%20User%20Guide%20v2.1.1.pdf)
 - System and security considerations for assembling a C2SIM Sandbox [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/AssemblingC2SIMSandbox.pdf)
@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIM-VRForces Interface v2.21 for VR-Forces 4.9 source code Windows C++ project implements C2SIM schema 1.0.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.21.zip)
 - C2SIM-VRForces Interface v2.21 for VR-Forces 4.9 binary and supplemental files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.21.zip)
 - C2SIM-VRForces Interface v2.23 for VR-Forces 4.9 source code Windows C++ project implements C2SIM schema 1.0.1 including bundled reports [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.23.zip)
-- C2SIM-VRForces Interface v2.23 for VR-Forces 4.9 binary and suplemental files including bundled reports [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.23.zip)
+- C2SIM-VRForces Interface v2.23 for VR-Forces 4.9 binary and supplemental files including bundled reports [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.23.zip)
 - C2SIM-VRForces Interface v2.28beta for VR-Forces 5.0.1a source code Windows C++ project implements C2SIM schema 1.0.1 including bundled reports [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.29.zip)
 - C2SIM-VRForces Interface v2.28beta for VR-Forces 5.0.1a binary and supplemental files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.29.zip)
 
