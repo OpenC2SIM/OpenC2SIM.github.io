@@ -66,7 +66,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.3.1 performance issues [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_Server_Performance_CWIX22.pdf)
 
 #### Latest C2SIM Ontologies and Schema
-- Trial composite schema (Core/SMX/LOX)schema for MSG-201 CWIX 2023 version 1 [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_CWIX2023v1.xsd)
+- Trial composite schema (Core/SMX/LOX)schema for MSG-201 CWIX 2023 version 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_CWIX2023v1.xsd)
 - Latest composite schema (Core/SMX/LOX) v1.0.1 [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_V1.0.1.xsd)
 - Latest transformation Ontology to Schema XSLT [link] (https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMOntologyToC2SIMSchemaV1.0.1.xslt)
 
