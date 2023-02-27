@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.10.9 works with ontology v1.0.0 and server 4.8.0.0 and up (2020) observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.9.zip)
 - C2SIMGUI Editor v2.10.14 works with schemata v1.0.1 including new MapGraphic and with server 4.8.0.0 and up observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.14.zip)
 - C2SIMGUI Editor v2.11.5 works with draft schemata v1.0.2 including new MapGraphic and with server 4.8.1.3 and later including SystemCommands and observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.11.5.zip)
-- C2SIMGUI Editor v2.12.3 works with draft schemata v1.0.2 including bundled reports and with server 4.8.2.1 and later including SystemCommands for server recording and playback [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.12.3.zip)
+- C2SIMGUI Editor v2.12.3 works with draft schemata CWIX2023v1.0.3 including bundled reports and with server 4.8.3.1 and later including SystemCommands for server recording and playback [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.13.1.zip)
 - C2SIMGUI Editor v2.12.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.12.1.pdf)
 
 #### C2SIM Reference Implementation Server
@@ -69,6 +69,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Trial composite schema (Core/SMX/LOX)schema for MSG-201 CWIX 2023 version 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_CWIX2023v2.xsd)
 - Latest composite schema (Core/SMX/LOX) v1.0.1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_V1.0.1.xsd)
 - Latest transformation Ontology to Schema XSLT [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMOntologyToC2SIMSchemaV1.0.1.xslt)
+- C2SIM Reference Implementation Server v4.8.3.1 for schema CWIX2023v1.0.3 (2023) runnable warfile (includes source code) [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServer%23%234.8.3.1.war)
 
 #### C2SIM Sandbox
 - C2SIM Overvewi 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMoverview2%2Cpdf.pdf)
