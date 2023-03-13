@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.10.9 works with ontology v1.0.0 and server 4.8.0.0 and up (2020) observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.9.zip)
 - C2SIMGUI Editor v2.10.14 works with schemata v1.0.1 including new MapGraphic and with server 4.8.0.0 and up observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.10.14.zip)
 - C2SIMGUI Editor v2.11.5 works with draft schemata v1.0.2 including new MapGraphic and with server 4.8.1.3 and later including SystemCommands and observation and position reports of OPFOR and others work [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.11.5.zip)
-- C2SIMGUI Editor v2.13.2 works with draft schemata CWIX2023v1.0.2 including bundled reports and with server 4.8.3.2 and later including SystemCommands for server recording and playback [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.13.1.zip)
+- C2SIMGUI Editor v2.13.2 works with draft schemata CWIX2023v1.0.2 including bundled reports and with server 4.8.3.2 and later including SystemCommands for server recording and playback [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.13.2.zip)
 - C2SIMGUI Editor v2.12.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.12.1.pdf)
 
 #### C2SIM Reference Implementation Server
