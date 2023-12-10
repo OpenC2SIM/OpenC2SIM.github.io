@@ -8,7 +8,7 @@ https://www.sisostds.org/DigitalLibrary.aspx?EntryId=51847
 ### SISO C2SIM Artifacts @ Github
 [https://github.com/OpenC2SIM/C2SIMArtifacts](https://github.com/OpenC2SIM/C2SIMArtifacts)
 
-### NATO Modelling & SImulation Group C2SIM Video
+### NATO Modelling & Simulation Group C2SIM Video
 https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 
 ### C2SIM Downloads
