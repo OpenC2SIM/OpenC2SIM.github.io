@@ -23,7 +23,10 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.13.2 works with draft schemata CWIX2023v1.0.2 including bundled reports and with server 4.8.3.2 and later including SystemCommands for server recording and playback [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.13.2.zip)
 - C2SIMGUI Editor v2.12.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.12.1.pdf)
 - C2SIM C2 user control v1.0.2 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMcontrolv1.0.2.zip)
-
+- C2SIMGUI Editor v2.13.11 CWIX 2023 User Guide [link]
+(https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMGUIv2.13.11.zip)
+- C2SIM C2 user control v1.0.7 CWIX 2023 beta derived from C2SIMGUI [link]
+(https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMcontrolv1.0.7.zip)
 #### C2SIM Reference Implementation Server
 - C2SIM Reference Implementation Server 4.8.2.3 user documentation [link](C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
 - Server 4.8.0.x overview documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/MSCOE_Server-22May.pdf)
@@ -36,6 +39,8 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.3.1 javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerv4.8.3.1-apidocs.zip)
 - Server 4.8.3.1 performance issues [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_Server_Performance_CWIX22.pdf)
 - Server 4.8.3.3 war file bug fixes [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServer%23%234.8.3.3.war)
+Server 4.8.4.73 CWIX 2023 updates [link]
+  - https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMServer%23%234.8.4.7.war
 
 #### Latest C2SIM Ontologies and Schema
 - Trial composite schema (Core/SMX/LOX)schema for MSG-201 CWIX 2023 version 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_CWIX2023v2.xsd)
