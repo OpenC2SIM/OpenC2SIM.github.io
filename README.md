@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.13.2 works with draft schemata CWIX2023v1.0.2 including bundled reports and with server 4.8.3.2 and later including SystemCommands for server recording and playback [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.13.2.zip)
 - C2SIMGUI Editor v2.12.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.12.1.pdf)
 - C2SIM C2 user control v1.0.2 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMcontrolv1.0.2.zip)
-- C2SIMGUI Editor v2.13.11 CWIX 2023 User Guide [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMGUIv2.13.11.zip)
+- C2SIMGUI Editor v2.13.11 CWIX 2023 version includes user gudie [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMGUIv2.13.11.zip)
 - C2SIM C2 user control v1.0.7 CWIX 2023 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMcontrolv1.0.7.zip)
 
 #### C2SIM Reference Implementation Server
