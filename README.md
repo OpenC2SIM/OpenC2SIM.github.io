@@ -24,9 +24,10 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.13.2 works with draft schemata CWIX2023v1.0.2 including bundled reports and with server 4.8.3.2 and later including SystemCommands for server recording and playback [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUIv2.13.2.zip)
 - C2SIMGUI Editor v2.12.1 User Guide [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMGUI_User_Guide_v2.12.1.pdf)
 - C2SIM C2 user control v1.0.2 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMcontrolv1.0.2.zip)
-- C2SIMGUI Editor v2.13.11 CWIX 2023 version includes user gudie [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMGUIv2.13.11.zip)
+- C2SIMGUI Editor v2.13.11 CWIX 2023 version includes user guide [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMGUIv2.13.11.zip)
 - C2SIM C2 user control v1.0.7 CWIX 2023 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMcontrolv1.0.7.zip)
 - C2SIM initialization tool v1.0.4 CWIX 2024 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMinitv1.0.4.zip)
+- C2SIM Editor v2.13.12 CWIX 2024 version includes user guide [link](https://cloud.c4i.gmu.edu/index.php/s/f3bJ3Gn29LXyZiY](https://cloud.c4i.gmu.edu/index.php/s/f3bJ3Gn29LXyZiY)
 
 #### C2SIM Reference Implementation Server
 - C2SIM Reference Implementation Server 4.8.2.3 user documentation [link](C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
@@ -44,6 +45,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.4.7 in Docker container [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/c2sim-docker-4.8.4.7.tar.gz)
 - Server 4.8.4.7 in Docker container c2simFiles auxiliary files outside Docker [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/c2simFiles-v2.tar.gz)
 - Server 4.8.4.7 in Docker container how to run under MacOS, Linux, and WIndows v5 [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/configure_docker_C2SIM_server_v5.pdf)
+- Server 4.8.4.8 war file CWIX 2024 updates [link] (https://cloud.c4i.gmu.edu/index.php/s/f3bJ3Gn29LXyZiY)
 
 #### Latest C2SIM Ontologies and Schema
 - Trial composite schema (Core/SMX/LOX)schema for MSG-201 CWIX 2023 version 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_CWIX2023v2.xsd)
