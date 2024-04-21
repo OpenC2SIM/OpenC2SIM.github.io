@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.4.7 in Docker container c2simFiles auxiliary files outside Docker [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/c2simFiles-v2.tar.gz)
 - Server 4.8.4.7 in Docker container how to run under MacOS, Linux, and WIndows v5 [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/configure_docker_C2SIM_server_v5.pdf)
 - Server 4.8.4.8 war file CWIX 2024 updates [link](https://cloud.c4i.gmu.edu/index.php/s/f3bJ3Gn29LXyZiY)
-- Server 4.8.4.8 user guide documentation [link]([https---github.com-OpenC2SIM-MSG201CWIX](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIM Server Reference Implementation Documentation 4.8.4 8.pdf)
+- Server 4.8.4.8 user guide documentation [link]([https---github.com-OpenC2SIM-MSG201CWIX]C2SIM Server Reference Implementation Documentation 4.8.4 8.pdf)
 
 #### Latest C2SIM Ontologies and Schema
 - Trial composite schema (Core/SMX/LOX)schema for MSG-201 CWIX 2023 version 1 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_SMX_LOX_CWIX2023v2.xsd)
