@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.13.11 CWIX 2023 version includes user guide [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMGUIv2.13.11.zip)
 - C2SIM C2 user control v1.0.7 CWIX 2023 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMcontrolv1.0.7.zip)
 - C2SIM initialization tool v1.0.4 CWIX 2024 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMinitv1.0.4.zip)
-- C2SIM Editor v2.13.12 CWIX 2024 version includes user guide [link](https://cloud.c4i.gmu.edu/index.php/s/f3bJ3Gn29LXyZiY)
+- C2SIM Editor v2.13.12 CWIX 2024 version includes user guide [link](https://cloud.c4i.gmu.edu/index.php/s/WFPyBEjW3pxDgfq)
 
 #### C2SIM Reference Implementation Server
 - C2SIM Reference Implementation Server 4.8.2.3 user documentation [link](C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
