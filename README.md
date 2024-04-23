@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.4.7 war file CWIX 2023 updates [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMServer%23%234.8.4.7.war)
 - Server 4.8.4.7 in Docker container [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/c2sim-docker-4.8.4.7.tar.gz)
 - Server 4.8.4.7 in Docker container c2simFiles auxiliary files outside Docker [link](https://cloud.c4i.gmu.edu/index.php/s/msyQmZbbsgEKEdM)
-- Server 4.8.4.7 and .8 in Docker container how to run under MacOS, Linux, and Windows v5 [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/configure_docker_C2SIM_server_v6.pdf)
+- Server 4.8.4.7 and .9 in Docker container how to run under MacOS, Linux, and Windows v5 [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/configure_docker_C2SIM_server_v6.pdf)
 - Server 4.8.4.8 war file CWIX 2024 updates [link](https://cloud.c4i.gmu.edu/index.php/s/f3bJ3Gn29LXyZiY)
 - Server 4.8.4.8 user guide documentation [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIM_Server_Reference_Implementation_Documentation_4.8.4.8.pdf)
 - c2simFiles-v2.tar.gz auxiliary files for use with Docker version 4.8.4.7 [link](https://cloud.c4i.gmu.edu/index.php/s/4JYXzJCZWdPgP4s)
