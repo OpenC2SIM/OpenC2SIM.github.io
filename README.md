@@ -30,13 +30,9 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIM Editor v2.13.12 CWIX 2024 version includes user guide [link](https://cloud.c4i.gmu.edu/index.php/s/WFPyBEjW3pxDgfq)
 
 #### C2SIM Reference Implementation Server
-- C2SIM Reference Implementation Server 4.8.2.3 user documentation [link](C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
 - Server 4.8.0.x overview documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/MSCOE_Server-22May.pdf)
 - Server 4.8.0.x message flow documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Message%20Flow_20200325.pdf)
 - Server 4.8.0.x class diagram documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_Server_UML.pdf)
-- Server 4.8.0.x javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMClientLib_JavaDoc.zip)
-- Server 4.8.0.x user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM%20Server%20Reference%20Implementation%20Documentation%204.8.0.X%20.pdf)
-- Server 4.8.2.3 user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.2.3.pdf)
 - Server 4.8.3.1 user guide documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerReferenceImplementationDocumentation4.8.3.1.pdf)
 - Server 4.8.3.1 javadoc documentation [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIMServerv4.8.3.1-apidocs.zip)
 - Server 4.8.3.1 performance issues [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/C2SIM_Server_Performance_CWIX22.pdf)
@@ -65,10 +61,10 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - System and security considerations for assembling a C2SIM Sandbox [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/AssemblingC2SIMSandbox.pdf)
 
 #### C2SIM Interface for VR-Forces
-- C2SIM-VRForces Interface v2.8 for VR-Forces 4.7 source code package works with server 4.7.0 and later and C2SIMv11 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.8.zip)
-- C2SIM-VRForces Interface v2.9 for VR-Forces 4.7 install package works with server 4.7.0 and later and C2SIMv11 [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.9.zip)
 - C2SIM-VRForces Interface v2.28beta for VR-Forces 5.0.1a source code Windows C++ project implements C2SIM schema 1.0.1 including bundled reports [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.29.zip)
 - C2SIM-VRForces Interface v2.28beta for VR-Forces 5.0.1a binary and supplemental files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.29.zip)
+- C2SIM-VRForces Interface v2.438beta for VR-Forces 5.0.2 source code Windows C++ project implements C2SIM schema CWIX2024 including bundled reports [link](https://cloud.c4i.gmu.edu/index.php/s/b2wwqBrRCsARC2c)
+- C2SIM-VRForces Interface v2.438beta for VR-Forces 5.0.2 binary and supplemental files [link](https://cloud.c4i.gmu.edu/index.php/s/mzK3nJPc978gGio)
 
 #### C2SIM Interface for VBS3
 - VBS3 C2SIM interface provied by Iain Gillies:
