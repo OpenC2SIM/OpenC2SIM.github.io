@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.4.8 war file CWIX 2024 updates [link](https://cloud.c4i.gmu.edu/index.php/s/f3bJ3Gn29LXyZiY)
 - Server 4.8.4.8 user guide documentation [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIM_Server_Reference_Implementation_Documentation_4.8.4.8.pdf)
 - c2simFiles-v2.tar.gz auxiliary files for use with Docker version 4.8.4.7 [link](https://cloud.c4i.gmu.edu/index.php/s/4JYXzJCZWdPgP4s)
-- Server 4.8.4.9-rev1 in Docker container [link](https://cloud.c4i.gmu.edu/index.php/s/eyyYSSZWRYJwJfi)
+- Server 4.8.4.9-rev1 in Docker container [link](https://cloud.c4i.gmu.edu/index.php/s/L7wyQ9skwB9Bp6P)
 - c2simFiles-v3.tar.gz auxiliary files for use with Docker version 4.8.4.9 [link](https://cloud.c4i.gmu.edu/index.php/s/jKyEDN2nWqsmwHF)
 - Server 4.8.4.9-rev1 in Docker container how to run under MacOS, Linux, and Windows v8 [link](https://cloud.c4i.gmu.edu/index.php/s/eyyYSSZWRYJwJfi)
 
