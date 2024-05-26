@@ -65,8 +65,8 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 #### C2SIM Interface for VR-Forces
 - C2SIM-VRForces Interface v2.28beta for VR-Forces 5.0.1a source code Windows C++ project implements C2SIM schema 1.0.1 including bundled reports [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/c2simVRFinterfacev2.29.zip)
 - C2SIM-VRForces Interface v2.28beta for VR-Forces 5.0.1a binary and supplemental files [link](https://github.com/OpenC2SIM/OpenC2SIM.github.io/blob/master/Install-C2SIM-VRFv2.29.zip)
-- C2SIM-VRForces Interface v2.438beta for VR-Forces 5.0.2 source code Windows C++ project implements C2SIM schema CWIX2024 including bundled reports [link](https://cloud.c4i.gmu.edu/index.php/s/b2wwqBrRCsARC2c)
-- C2SIM-VRForces Interface v2.438beta for VR-Forces 5.0.2 binary and supplemental files [link](https://cloud.c4i.gmu.edu/index.php/s/mzK3nJPc978gGio)
+- C2SIM-VRForces Interface v2.35beta for VR-Forces 5.0.2 source code Windows C++ project implements C2SIM schema CWIX2024 including bundled reports [link](https://cloud.c4i.gmu.edu/index.php/s/aADxYrjbTCNEp4t)
+- C2SIM-VRForces Interface v2.35beta for VR-Forces 5.0.2 binary and supplemental files [link](https://cloud.c4i.gmu.edu/index.php/s/aADxYrjbTCNEp4t)
 
 #### C2SIM Interface for VBS3
 - VBS3 C2SIM interface provied by Iain Gillies:
