@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - C2SIMGUI Editor v2.13.11 CWIX 2023 version includes user guide [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMGUIv2.13.11.zip)
 - C2SIM C2 user control v1.0.7 CWIX 2023 beta derived from C2SIMGUI [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMcontrolv1.0.7.zip)
 - C2SIM initialization tool v1.0.5 CWIX 2024 beta derived from C2SIMGUI [link](https://cloud.c4i.gmu.edu/index.php/s/pdNY5NWfrF8CJjb)
-- C2SIM Editor v2.13.12 CWIX 2024 version includes user guide [link](https://cloud.c4i.gmu.edu/index.php/s/WFPyBEjW3pxDgfq)
+- C2SIM Editor v2.13.13 CWIX 2024 version includes user guide [link](https://cloud.c4i.gmu.edu/index.php/s/NzeMWyXd8pAcPSS))
 - C2SIM initialization tool v1.0.6 CWIX 2024 early beta derived from C2SIMGUI has option to use SISO order for SISOEntity [link](https://cloud.c4i.gmu.edu/index.php/s/PaedercHFDxrqJt)
 
 #### C2SIM Reference Implementation Server
@@ -41,8 +41,8 @@ https://www.youtube.com/watch?v=3L_Hhxuh6Zc
 - Server 4.8.4.7 war file CWIX 2023 updates [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIMServer%23%234.8.4.7.war)
 - Server 4.8.4.7 in Docker container [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/c2sim-docker-4.8.4.7.tar.gz)
 - Server 4.8.4.7 in Docker container c2simFiles auxiliary files outside Docker [link](https://cloud.c4i.gmu.edu/index.php/s/msyQmZbbsgEKEdM)
-- Server 4.8.4.9 war file CWIX 2024 updates [link](https://cloud.c4i.gmu.edu/index.php/s/XFaxcTbQDJEBiF4)
-- Server 4.8.4.8/9 user guide documentation [link](https://github.com/OpenC2SIM/https---github.com-OpenC2SIM-MSG201CWIX/blob/main/C2SIM_Server_Reference_Implementation_Documentation_4.8.4.8.pdf)
+- Server 4.8.4.10 war file CWIX 2024 updates [link](https://cloud.c4i.gmu.edu/index.php/s/AH5BxXnqLPE8GXm)
+- Server 4.8.4.10 user guide documentation [link](https://cloud.c4i.gmu.edu/index.php/s/offYCmGMpspt4TZ)
 - c2simFiles-v2.tar.gz auxiliary files for use with Docker version 4.8.4.7 [link](https://cloud.c4i.gmu.edu/index.php/s/4JYXzJCZWdPgP4s)
 - Server 4.8.4.9-rev1 in Docker container [link](https://cloud.c4i.gmu.edu/index.php/s/L7wyQ9skwB9Bp6P)
 - c2simFiles-v3.tar.gz auxiliary files for use with Docker version 4.8.4.9 [link](https://cloud.c4i.gmu.edu/index.php/s/jKyEDN2nWqsmwHF)
