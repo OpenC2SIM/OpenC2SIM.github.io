@@ -1,0 +1,141 @@
+openapi: 3.0.3
+info:
+  title: C2SIM Server REST Interface
+  version: 4.8.3.1
+  description: |
+    OpenAPI description of the REST interface exposed by the C2SIM reference
+    server, as documented in "C2SIM Server Reference Implementation
+    Documentation 4.8.3.1" (section "The C2SIM server is implemented using
+    REST procedures").
+
+    Two endpoints are covered:
+    - `POST /C2SIMServer/c2sim`: submission of BML and C2SIM documents.
+    - `POST /C2SIMServer/command`: submission of session commands.
+
+    Each call is a single REST transaction: the client disconnects after the
+    message is sent (the connection does not persist). The STOMP interface
+    (Apache Apollo 1.7.1, STOMP 1.2) is separate and is not described here.
+
+    Note: the reference documentation lists the inputs as "REST Parameters"
+    without pinning down their transport. They are modelled here as query
+    parameters; adjust to form parameters if the reference implementation
+    expects `application/x-www-form-urlencoded` bodies instead.
+servers:
+  - url: http://hostname:8080
+paths:
+  /C2SIMServer/c2sim:
+    post:
+      summary: Submit a BML or C2SIM document
+      description: |
+        Submission of BML and C2SIM documents. The `protocol` parameter selects
+        the document family; `sender`, `receiver` and `communicativeActTypeCode`
+        apply to C2SIM documents only.
+      parameters:
+        - name: protocol
+          in: query
+          required: true
+          description: Document family (C2SIM or BML).
+          schema:
+            type: string
+            enum: [C2SIM, BML]
+        - name: submitterID
+          in: query
+          required: true
+          description: Identification of the submitter.
+          schema:
+            type: string
+        - name: sender
+          in: query
+          required: false
+          description: Identifier of sending process (C2SIM only).
+          schema:
+            type: string
+        - name: receiver
+          in: query
+          required: false
+          description: Identifier of intended recipient (C2SIM only).
+          schema:
+            type: string
+        - name: communicativeActTypeCode
+          in: query
+          required: false
+          description: Type of communication (C2SIM only).
+          schema:
+            type: string
+        - name: conversationID
+          in: query
+          required: false
+          description: Identity of a series of messages.
+          schema:
+            type: string
+        - name: version
+          in: query
+          required: false
+          description: Version of client software (4.8.3.1 in the reference documentation).
+          schema:
+            type: string
+            example: 4.8.3.1
+      requestBody:
+        required: true
+        description: The BML or C2SIM XML document to submit.
+        content:
+          application/xml:
+            schema:
+              type: string
+              format: xml
+      responses:
+        '200':
+          description: Result of processing the submitted document (plain text).
+          content:
+            text/plain:
+              schema:
+                type: string
+        '400':
+          description: Invalid parameters or document.
+  /C2SIMServer/command:
+    post:
+      summary: Submit a session command
+      description: |
+        Submission of session commands. `parm1` and `parm2` are used with the
+        command, as described in the reference documentation.
+      parameters:
+        - name: command
+          in: query
+          required: true
+          description: Command as described in the reference documentation.
+          schema:
+            type: string
+        - name: parm1
+          in: query
+          required: false
+          description: First parameter used with the command.
+          schema:
+            type: string
+        - name: parm2
+          in: query
+          required: false
+          description: Second parameter used with the command.
+          schema:
+            type: string
+        - name: submitter
+          in: query
+          required: true
+          description: Identification of the submitter.
+          schema:
+            type: string
+        - name: version
+          in: query
+          required: false
+          description: Version of client software (4.6.3 in the reference documentation).
+          schema:
+            type: string
+            example: 4.6.3
+      responses:
+        '200':
+          description: Result of processing the command (plain text).
+          content:
+            text/plain:
+              schema:
+                type: string
+        '400':
+          description: Invalid command or parameters.
